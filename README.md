@@ -153,10 +153,10 @@ Se permite el uso de ChatGPT/Claude/Gemini/etc como **asistentes**, bajo las sig
 
 | Criterio | Peso | Descripción |
 | --- | --- | --- |
-| **Funcionalidad HTTP** | 30% | Sirve HTML, CSS e Imágenes correctamente. Maneja 404. |
+| **Funcionalidad HTTP** | 20% | Sirve HTML, CSS e Imágenes correctamente. Maneja 404. |
 | **Concurrencia** | 30% | Thread Pool funcional. Soporta múltiples clientes simultáneos. |
-| **Calidad de Código** | 20% | Código modular, uso de structs, sin fugas de memoria (Valgrind/ASan clean). |
-| **Defensa Oral** | 20% | Capacidad de explicar la arquitectura y responder preguntas sobre el código. |
+| **Calidad de Código** | 10% | Código modular, uso de structs, sin fugas de memoria (Valgrind/ASan clean). |
+| **Defensa Oral** | 40% | Capacidad de explicar la arquitectura y responder preguntas sobre el código. |
 
 ---
 
