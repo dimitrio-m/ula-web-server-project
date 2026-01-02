@@ -1,0 +1,5 @@
+bin/
+*.o
+*.log
+.DS_Store
+.vscode/
